@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+title: Jekyll-tutorial 
+url: index.md
+description: This is an awesome site I created while learning Jekyll :)
